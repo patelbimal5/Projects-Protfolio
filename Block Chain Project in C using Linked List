@@ -146,6 +146,7 @@ int main()
                     t= t->next;
                     if(t->next == NULL){
                         break;
+                        
                     }
                 }
                 printf("\nBlock verification is completed\n");
